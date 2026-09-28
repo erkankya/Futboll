@@ -1,0 +1,30 @@
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\bin\Debug\futbol.accdb
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.Anasayfa.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.Listeleme.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.OyuncuEkle.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.TakimDetay.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.TakimEkle.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\bin\Debug\proje.exe.config
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\bin\Debug\proje.exe
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\bin\Debug\proje.pdb
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.exe
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.pdb
+C:\Users\okaya\OneDrive\Masaüstü\FutbolProje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Harettin Aksoy\FutbolProje\proje\bin\Debug\futbol.accdb
+C:\Harettin Aksoy\FutbolProje\proje\bin\Debug\proje.exe.config
+C:\Harettin Aksoy\FutbolProje\proje\bin\Debug\proje.exe
+C:\Harettin Aksoy\FutbolProje\proje\bin\Debug\proje.pdb
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.csprojAssemblyReference.cache
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.Anasayfa.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.Listeleme.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.OyuncuEkle.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.Properties.Resources.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.TakimDetay.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.TakimEkle.resources
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.csproj.GenerateResource.cache
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.csproj.CoreCompileInputs.cache
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.exe
+C:\Harettin Aksoy\FutbolProje\proje\obj\Debug\proje.pdb
